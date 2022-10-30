@@ -40,7 +40,7 @@ Imagina que juegas un videojuego con un amigo que te proporciona algunos comenta
   <img src="https://user-images.githubusercontent.com/95035101/198694709-0e0e6c93-0934-48f4-9307-1873e6d79339.png">
 </p>
 
-Al principio, no sabes cómo jugar, así que intentas alguna acción al azar. El Crítico observa su acción y proporciona retroalimentación. Primero echemos un vistazo de nuevo al gradiente de política vainilla para ver cómo entra la arquitectura Actor-Crítico (y qué es):
+Al principio, no sabes cómo jugar, así que intentas alguna acción al azar. El Crítico observa su acción y proporciona retroalimentación. Primero echemos un vistazo de nuevo al gradiente de política para ver cómo entra la arquitectura Actor-Crítico (y qué es):
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/95035101/198694988-b2699976-9b67-411b-9a37-036d2756f138.svg">
